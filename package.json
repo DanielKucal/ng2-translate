@@ -1,5 +1,6 @@
 {
   "name": "ng2-translate",
+  "version": "2.0.1"
   "description": "An implementation of angular translate for Angular 2",
   "scripts": {
     "test": "tsc && karma start",
@@ -10,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ocombe/ng2-translate.git"
+    "url": "https://github.com/DanielKucal/ng2-translate.git"
   },
   "keywords": [
     "angular",
